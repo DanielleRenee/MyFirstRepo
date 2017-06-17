@@ -1,2 +1,2 @@
-# MyFirstRepo
-Coding and Cocktails April
+# my_first_repo
+coding and cocktails
